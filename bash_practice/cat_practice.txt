@@ -1,0 +1,3 @@
+bochen_jiang@Bochen-JiangdeMacBook-Air bash_practice % echo practice for cat > cat_practice.txt
+bochen_jiang@Bochen-JiangdeMacBook-Air bash_practice % cat cat_practice.txt
+practice for cat

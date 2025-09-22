@@ -186,6 +186,9 @@
   },
   "active": "8f88ea0fd15bbf4a",
   "lastOpenFiles": [
+    "bash_practice/cat_practice.txt",
+    "bash_practice/hello.txt",
+    "bash_practice",
     "重新定义问问大象式生活.md",
     "Missing -semester.md",
     "我与地坛.md",
@@ -222,7 +225,6 @@
     "学习笔记/程序设计C++/第4章-循环程序设计/4.2 break 和 continue 语句.md",
     "问问大象/直播笔记/L2 如何利用好问问大象.md",
     "学习笔记/程序设计C++/第5章-过程封装———— 函数/5.2 函数的使用.md",
-    "学习笔记/程序设计C++/第4章-循环程序设计/4.3 基于哨兵的循环.md",
     "问问大象/直播笔记/阶段性答疑/阶段性答疑-1.canvas",
     "学习笔记/Lineaer Algebra/the practice lesson for 11.22",
     "学习笔记/程序设计C++/第5章-过程封装———— 函数",
@@ -231,8 +233,6 @@
     "学习笔记/程序设计C++/第4章-循环程序设计",
     "学习笔记/Lineaer Algebra",
     "学习笔记/程序设计C++/C++ 复习",
-    "Essence Of Calculus",
-    "问问大象/直播笔记/阶段性答疑",
-    "学习笔记/Excalidraw"
+    "Essence Of Calculus"
   ]
 }
