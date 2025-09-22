@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"2e1a1f61d3bbc7bf","type":"text","text":"这是插入的结点","x":120,"y":240,"width":140,"height":60,"color":"3"},
+		{"id":"306314a830739c11","type":"text","text":"插入操作","x":-121,"y":-15,"width":129,"height":60},
+		{"id":"96cc7ad9f41a1dc7","type":"text","text":"删除操作","x":-121,"y":370,"width":141,"height":50,"color":"1"},
+		{"id":"2cb1f6d7a6315416","type":"text","text":"这是第二个节点","x":220,"y":91,"width":147,"height":60,"color":"5"},
+		{"id":"ec200dbcc0f7fb58","type":"text","text":"这是第一个节点","x":8,"y":91,"width":141,"height":60,"color":"5"},
+		{"id":"1f011ca461977893","type":"text","text":"这是将要删除的节点","x":120,"y":484,"width":151,"height":60,"color":"1"},
+		{"id":"3f061dd622ee00b6","type":"text","text":"这是后继节点","x":340,"y":484,"width":173,"height":60,"color":"5"},
+		{"id":"2f40149ab6547939","type":"text","text":"这是第一个节点","x":-100,"y":494,"width":141,"height":50,"color":"5"},
+		{"id":"bdf5649f4324f1e8","type":"file","file":"图片/Pasted image 20250307160810.png","x":540,"y":420,"width":400,"height":273},
+		{"id":"09c05314c965ff37","type":"file","file":"图片/Pasted image 20250307160848.png","x":460,"y":15,"width":400,"height":309}
+	],
+	"edges":[
+		{"id":"260f6974cbc2e146","fromNode":"ec200dbcc0f7fb58","fromSide":"bottom","toNode":"2e1a1f61d3bbc7bf","toSide":"top"},
+		{"id":"f13dc3e02553a1e0","fromNode":"2e1a1f61d3bbc7bf","fromSide":"top","toNode":"2cb1f6d7a6315416","toSide":"bottom"},
+		{"id":"21a97bf466bd7a09","fromNode":"ec200dbcc0f7fb58","fromSide":"right","toNode":"2cb1f6d7a6315416","toSide":"left"},
+		{"id":"6ceb36e75e469cae","fromNode":"2f40149ab6547939","fromSide":"right","toNode":"1f011ca461977893","toSide":"left","color":"3"},
+		{"id":"bde5a99974733d8e","fromNode":"1f011ca461977893","fromSide":"right","toNode":"3f061dd622ee00b6","toSide":"left","color":"3"},
+		{"id":"69574bfde7d6453b","fromNode":"2f40149ab6547939","fromSide":"bottom","toNode":"3f061dd622ee00b6","toSide":"bottom","color":"1"}
+	]
+}

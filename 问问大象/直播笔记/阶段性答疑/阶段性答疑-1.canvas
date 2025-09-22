@@ -1,0 +1,13 @@
+{
+	"edges":[
+		{"fromNode":"c11977bf25d5a6cc","fromSide":"right","id":"8cc634d3d96b084e","toNode":"24494047bc94f6ee","toSide":"left"}
+	],
+	"metadata":{
+		"frontmatter":{},
+		"version":"1.0-1.0"
+	},
+	"nodes":[
+		{"height":60,"id":"c11977bf25d5a6cc","text":"目的-手段复习法","type":"text","width":250,"x":-420,"y":-16},
+		{"height":54,"id":"24494047bc94f6ee","text":"根据自己的目标来确定","type":"text","width":250,"x":0,"y":-120}
+	]
+}
