@@ -157,4 +157,9 @@ pipe: **|**
 - and passes it as the **input** to the command on the **right** side.
 
 
-so we can see that both sides of the pipe are command 
+so we can see that both sides of the pipe are **command** 
+
+
+### sudo
+
+The `sudo` command in Unix-like systems (like macOS or Linux) stands for **“superuser do”**. It allows a regular user to execute a command **with elevated privileges**, typically those of the **root user** (the system administrator). This is necessary for commands that modify system files, install software, or change system settings.
