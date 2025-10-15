@@ -1,7 +1,0 @@
-Ask_the_Elephant/
-pics/
-.DS_Store
-.git_backup/
-.git_backup/
-eval SSH_AUTH_SOCK=/var/folders/9v/wdv6jwfn03l1c_4161nx2n400000gn/T//ssh-MmkfQ44Icncj/agent.31094; export SSH_AUTH_SOCK; SSH_AGENT_PID=31095; export SSH_AGENT_PID; echo Agent pid 31095;
-eval SSH_AUTH_SOCK=/var/folders/9v/wdv6jwfn03l1c_4161nx2n400000gn/T//ssh-YDF6A5PkI7E7/agent.31105; export SSH_AUTH_SOCK; SSH_AGENT_PID=31106; export SSH_AGENT_PID; echo Agent pid 31106;.pub
