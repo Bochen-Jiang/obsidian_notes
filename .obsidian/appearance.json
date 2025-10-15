@@ -1,0 +1,14 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Royal Velvet",
+  "accentColor": "#01fee0",
+  "textFontFamily": "Chalkboard,Consolas",
+  "monospaceFontFamily": "Chalkboard,Consolas",
+  "baseFontSizeAction": true,
+  "baseFontSize": 23,
+  "interfaceFontFamily": "Chalkboard SE,Chalkduster,Cascadia Mono,Chalkboard",
+  "enabledCssSnippets": [
+    "strong"
+  ],
+  "showRibbon": false
+}

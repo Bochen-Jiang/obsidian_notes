@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "ff0181f2e817fe43",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad387812d3fdb5dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c05cabe82a418806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anolog Electronics/1.3 Bipolar Junction Transistor (BJT).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.3 Bipolar Junction Transistor (BJT)"
+            }
+          },
+          {
+            "id": "7a4f7ee62cb67fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anolog Electronics/Chapter 1/1.4 Field Effect Transistor (FET).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.4 Field Effect Transistor (FET)"
+            }
+          },
+          {
+            "id": "bd7c18e637f074ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anolog Electronics/Chapter 1/1.3 Bipolar Junction Transistor (BJT).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.3 Bipolar Junction Transistor (BJT)"
+            }
+          },
+          {
+            "id": "2f6f99677fc66d64",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference",
+                "title": "MathJax basic tutorial and quick reference - Mathematics Meta Stack Exchange",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "MathJax basic tutorial and quick reference - Mathematics Meta Stack Exchange"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f99fec2e0e9d675",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce80c706dee2a1bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4785d126587adf91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9c73e33c1c9f54f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "df5b9b46177089d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "17934930b1b7678b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d0e0f7d25f0de21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87b32f2cd0aa33d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Anolog Electronics/1.2 simonconductor diode.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1.2 simonconductor diode"
+            }
+          },
+          {
+            "id": "478ef67a9994d1ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Anolog Electronics/1.2 simonconductor diode.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1.2 simonconductor diode"
+            }
+          },
+          {
+            "id": "8207966cf01aef5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "686dc20a0317aa25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "学习笔记/Python/Chapter 6 字典和集合.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chapter 6 字典和集合"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bd7c18e637f074ae",
+  "lastOpenFiles": [
+    "Anolog Electronics/Chapter 1/1.4 Field Effect Transistor (FET).md",
+    "Anolog Electronics/Chapter 2 Basic amplifier circuit/2.1 The composition of basic amplifier circuit.md",
+    "Missing_semester.md",
+    "physics/12.2 静电场中的电介质.md",
+    "Anolog Electronics/Chapter 2 Basic amplifier circuit",
+    "Anolog Electronics/Chapter 1",
+    "Anolog Electronics/Chapter 1/1.3 Bipolar Junction Transistor (BJT).md",
+    "pics/截屏2025-10-14 16.08.26.png",
+    "Diary/2025-06-04.md",
+    "obsidian_help.md",
+    "Anolog Electronics/Chapter 1/1.1 The properties of PN junction and diode.md",
+    "Anolog Electronics/Chapter 1/1.2 simonconductor diode.md",
+    "Learning_notes/Data_Structure/第三章 栈和队列.md",
+    "Learning_notes/Data_Structure/第二章 线性表.md",
+    "Essence Of Calculus/What's so special about Euler's number e.md",
+    "Ask_the_Elephant/重新定义问问大象式生活.md",
+    "Ask_the_Elephant/如何制定适合自己的规划（入门）.md",
+    "pics/截屏2025-10-13 14.08.23.png",
+    "pics/Analog Electronic.jpeg",
+    "physics/12.1 静电场中的导体.md",
+    "Reading_notes/Me and Ditan.md",
+    "Learning_notes/Python/Chapter 3 运算符与表达式.md",
+    "pics/Notes Of Physics.jpeg",
+    "pics/截屏2025-10-10 19.47.40.png",
+    "截屏2025-10-10 19.47.40.png",
+    "pics/截屏2025-10-10 17.03.58.png",
+    "Learning_notes/Data_Structure/单链表的基本操作.canvas",
+    "Learning_notes/C++/第5章-过程封装———— 函数/5.2 函数的使用.md",
+    "Learning_notes/C++/第5章-过程封装———— 函数/5.1 函数的定义.md",
+    "physics",
+    "pics/Screenshot 2025-10-09 at 18.47.24.png",
+    "pics/Screenshot 2025-10-09 at 18.23.33.png",
+    "pics/图片/Pasted image 20250228165036.png",
+    "pics/图片",
+    "jackie",
+    "Me and Ditan.md",
+    "Learning_notes/Chemistry/11.5 多电子原子结构与周期律.md",
+    "Learning_notes/Chemistry/11.4.3 4个量子数.md",
+    "Learning_notes/Chemistry/11.4 氢原子的量子力学模型.md",
+    "Learning_notes/Chemistry",
+    "Anolog Electronics/1.2simonconductor diode.md",
+    "Anolog Electronics/1.1The properties of PN junction and diode.md",
+    "eval \"$(ssh-agent -s)\".pub",
+    "eval \"$(ssh-agent -s)\"",
+    "bash_practice/copy_of_hello.txt",
+    "Anolog Electronics",
+    "学习笔记/数据结构/单链表的基本操作.canvas",
+    "问问大象/直播笔记/阶段性答疑/阶段性答疑-1.canvas"
+  ]
+}

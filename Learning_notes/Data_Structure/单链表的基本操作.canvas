@@ -7,9 +7,7 @@
 		{"id":"ec200dbcc0f7fb58","type":"text","text":"这是第一个节点","x":8,"y":91,"width":141,"height":60,"color":"5"},
 		{"id":"1f011ca461977893","type":"text","text":"这是将要删除的节点","x":120,"y":484,"width":151,"height":60,"color":"1"},
 		{"id":"3f061dd622ee00b6","type":"text","text":"这是后继节点","x":340,"y":484,"width":173,"height":60,"color":"5"},
-		{"id":"2f40149ab6547939","type":"text","text":"这是第一个节点","x":-100,"y":494,"width":141,"height":50,"color":"5"},
-		{"id":"bdf5649f4324f1e8","type":"file","file":"图片/Pasted image 20250307160810.png","x":540,"y":420,"width":400,"height":273},
-		{"id":"09c05314c965ff37","type":"file","file":"图片/Pasted image 20250307160848.png","x":460,"y":15,"width":400,"height":309}
+		{"id":"2f40149ab6547939","type":"text","text":"这是第一个节点","x":-100,"y":494,"width":141,"height":50,"color":"5"}
 	],
 	"edges":[
 		{"id":"260f6974cbc2e146","fromNode":"ec200dbcc0f7fb58","fromSide":"bottom","toNode":"2e1a1f61d3bbc7bf","toSide":"top"},
